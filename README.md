@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![image](https://github.com/DedeSnrwn13/latihan-notification-mobile-2/assets/46914100/6f20d1cc-9651-4e6e-b994-02782f9054c3)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
